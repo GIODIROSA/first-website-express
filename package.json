@@ -1,0 +1,20 @@
+{
+  "name": "node4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/",
+    "dev": "nodemon src/"
+  },
+  "keywords": [],
+  "author": "Giovanni Di Rosa",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
